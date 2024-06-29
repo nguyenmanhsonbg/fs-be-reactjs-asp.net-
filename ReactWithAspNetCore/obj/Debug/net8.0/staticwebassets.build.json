@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0qfKADR74nPdk5bAiuY+P04Y4H/jkObaA65X4SnOkXc=",
+  "Source": "ReactWithAspNetCore",
+  "BasePath": "_content/ReactWithAspNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
